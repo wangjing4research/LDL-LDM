@@ -1,3 +1,5 @@
+#this code is shared by https://github.com/NJUST-IDAM/
+
 from sklearn.cluster import KMeans
 from scipy.optimize import fmin_l_bfgs_b
 import numpy as np
