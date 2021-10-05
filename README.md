@@ -21,7 +21,7 @@ LDL-LDM with full LDL: python ldm_full.py
 
 LDL-LDM with missing LDL: python ldm_incom.py
 
-comparing methods:
+# Comparing methods
 
 IIS-LLD and SA-BFGS: http://ldl.herokuapp.com/LDLPackage_v1.2.zip
 
