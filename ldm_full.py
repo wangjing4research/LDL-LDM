@@ -41,8 +41,6 @@ def run_LDLLDM_Full(train_x, train_y, test_x, test_y, scores):
     params = [(train_x, train_y, test_x, test_y, l1, l2, l3, g, None) 
               for l1 in L1 for l2 in L2 for l3 in L3 for g in groups]
     
-    finished = 0
-    
     for (key, val) in map(do_LDLLDM_Full, params):
         if not key in scores.keys():
             scores[key] = []
