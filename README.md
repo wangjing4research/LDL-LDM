@@ -5,6 +5,16 @@ Our paper presents a new LDL method which exploits both global and local label c
 
 ![Framework of LDL-LDM](./framework.png)
 
+Use our code and cite
+>@article{wang_label_2021, \
+	>title = {Label distribution learning} by exploiting label distribution manifold}, \
+	>journal = {IEEE Transactions on Neural Networks and Learning Systems},\
+	>author = {Wang, Jing and Geng, Xin},\
+	>year = {2021},\
+	>pages = {1--14},\
+>}
+
+
 
 # How to use
 LDL-LDM with full LDL: python ldm_full.py
