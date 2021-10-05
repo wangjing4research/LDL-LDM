@@ -21,3 +21,11 @@ LDL-LDM with full LDL: python ldm_full.py
 
 LDL-LDM with missing LDL: python ldm_incom.py
 
+comparing methods:
+
+IIS-LLD and SA-BFGS: http://ldl.herokuapp.com/LDLPackage_v1.2.zip
+
+Adam-LDL-SCL, EDL-LRL, and LDL-LCLR, refer to https://github.com/NJUST-IDAM/
+
+IncomLDL: http://www.lamda.nju.edu.cn/files/IncomLDL.zip
+
