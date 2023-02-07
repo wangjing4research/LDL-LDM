@@ -6,12 +6,14 @@ Our paper presents a new LDL method which exploits both global and local label c
 ![Framework of LDL-LDM](./framework.png)
 
 Use our code and cite
->@article{wang_label_2021, \
+>@article{wang_label_2023, \
 	title = {Label distribution learning by exploiting label distribution manifold}, \
 	journal = {IEEE Transactions on Neural Networks and Learning Systems},\
 	author = {Wang, Jing and Geng, Xin},\
-	year = {2021},\
-	pages = {1--14},\
+	year = {2023},\
+	volume={34}, \
+  	number={2}, \
+	pages={839-852}, \
 >}
 
 
